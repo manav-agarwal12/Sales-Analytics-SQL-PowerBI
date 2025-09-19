@@ -5,7 +5,7 @@ Built an **end-to-end data analytics project** analyzing e-commerce sales using 
 The project delivers **20+ KPIs** on revenue, profit margins, customer behavior, and product performance, enabling data-driven decision-making.
 
 ---
-📌 Project Story 
+## 📌 Project Story 
 
 Problem :
 
